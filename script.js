@@ -77,3 +77,12 @@ const cont = () => {
 const rest = () => {
     location.reload()
 }
+var myMusic = document.getElementById ("music")
+function plays
+(){
+ myMusic.play ()
+    
+}
+function pauses(){
+    myMusic.pause()
+}
